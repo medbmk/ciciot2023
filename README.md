@@ -1,0 +1,1 @@
+This project aims to detect cyberattacks in IoT networks through machine learning, placing a strong emphasis on data preprocessing. It utilizes the CICIoT 2023 dataset, which includes both normal and malicious IoT network traffic. The main objective is to preprocess the dataset efficiently and then build a machine learning model capable of identifying cyber threats.
